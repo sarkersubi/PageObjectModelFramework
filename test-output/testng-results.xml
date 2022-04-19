@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4763" started-at="2022-04-03T22:27:34 EDT" finished-at="2022-04-03T22:27:39 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4763" started-at="2022-04-03T22:27:34 EDT" finished-at="2022-04-03T22:27:39 EDT">
+      <class name="session6POM.LogInTest">
+        <test-method status="PASS" signature="validUserShouldBeLogIn()[pri:0, instance:session6POM.LogInTest@6acdbdf5]" name="validUserShouldBeLogIn" duration-ms="4743" started-at="2022-04-03T22:27:34 EDT" finished-at="2022-04-03T22:27:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUserShouldBeLogIn -->
+      </class> <!-- session6POM.LogInTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
